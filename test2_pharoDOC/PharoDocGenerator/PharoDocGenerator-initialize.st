@@ -1,0 +1,1 @@
+'From Pharo8.0.0 of 22 January 2020 [Build information: Pharo-8.0.0+build.1124.sha.0932da82f08175e906b0e2a8052120c823374e9f (64 Bit)] on 11 January 2025 at 2:45:06.054677 pm'!!PharoDocGenerator methodsFor: 'initialization' stamp: 'bookcollect 1/11/2025 14:37'!initialize    super initialize! !
