@@ -9,10 +9,10 @@ To verify that the PharoDocGenerator correctly generates documentation for all c
 
 Test Steps:
 
-Create a new instance of PharoDocGenerator
-Set the package to YourPackage using RPackage organizer
-Generate the documentation
-Verify the generated output
+1.Create a new instance of PharoDocGenerator  
+2.Set the package to YourPackage using RPackage organizer  
+3.Generate the documentation  
+4.Verify the generated output  
 
 ```smalltalk
 generator := PharoDocGenerator new.
